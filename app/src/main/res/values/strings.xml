@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Door Lock Control</string>
+    <string name="temp">Temperature</string>
+    <string name="humid">Humidity</string>
+    <string name="light1">Lock/Unlock</string>
+    <string name="on">Unlock</string>
+    <string name="off">lock</string>
+    <string name="celsius">Celsius</string>
+    <string name="percent">Present</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">แอปควบคุมที่ล็อคประตูอัจฉริยะ</string>
+    <string name="temp">อุณหภูมิ</string>
+    <string name="humid">ความชื้น</string>
+    <string name="light1">ล็อค/ปลดล็อค</string>
+    <string name="on">ปลดล็อค</string>
+    <string name="off">ล็อค</string>
+    <string name="celsius">เซลเซียส</string>
+    <string name="percent">เปอร์เซน</string>
+
+</resources>
